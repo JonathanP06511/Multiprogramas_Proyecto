@@ -1,0 +1,8 @@
+C:\Users\LAPTOP USER\source\repos\Deberes\ejercicio 1\bin\Debug\ejercicio 1.exe.config
+C:\Users\LAPTOP USER\source\repos\Deberes\ejercicio 1\bin\Debug\ejercicio 1.exe
+C:\Users\LAPTOP USER\source\repos\Deberes\ejercicio 1\bin\Debug\ejercicio 1.pdb
+C:\Users\LAPTOP USER\source\repos\Deberes\ejercicio 1\obj\Debug\ejercicios.csproj.AssemblyReference.cache
+C:\Users\LAPTOP USER\source\repos\Deberes\ejercicio 1\obj\Debug\ejercicios.csproj.SuggestedBindingRedirects.cache
+C:\Users\LAPTOP USER\source\repos\Deberes\ejercicio 1\obj\Debug\ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP USER\source\repos\Deberes\ejercicio 1\obj\Debug\ejercicio 1.exe
+C:\Users\LAPTOP USER\source\repos\Deberes\ejercicio 1\obj\Debug\ejercicio 1.pdb
